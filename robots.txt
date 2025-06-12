@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://personal-project-liard-nine.vercel.app/sitemap.xml
