@@ -9,6 +9,7 @@ body {
   direction: rtl;
   text-align: center;
   padding: 30px 20px 40px; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -26,7 +27,9 @@ nav {
 .lam{
   gap: 50;
 }
-
+.nav{
+  font-family: sy;
+}
 nav a {
   color: #eee;
   text-decoration: none;
