@@ -325,19 +325,20 @@ bottom: 170px;
 }
 
 .img-instagram{
- 
-  position: relative;
-  top: 6px;
+
 }
 .name-whatsapp{
  text-decoration: none;
  color: black;
  position: relative;
- right: 18px;
+
 }
 
 .img-whatsapp{
-  right: 16px;
-  position: relative;
-  top: 6px;
+ 
+}
+.footer-icon{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
 }
